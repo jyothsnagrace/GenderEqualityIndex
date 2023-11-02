@@ -1,9 +1,10 @@
 
 # European Gender Equality Index
 Welcome to the Gender Equality Index Visualization Repository!
-
-
 This repository hosts data visualization project, which delves into Gender Equality Index's insights within the European Union (EU). These Dashboards designed to offer a quick and informative look at the EU's gender equality landscape and its thematic dimensions across EU Member States developed by [EIGE](https://eige.europa.eu/gender-equality-index). It specifically reflects how the conditions transitioned from 2010-21.
+
+## Tableau Dashboard
+[European Gender Equality Index](https://public.tableau.com/app/profile/lkona/viz/EuropeanGenderEqualityIndex/EUGenderEqualityIndex)
 
 ## Data
 
@@ -32,7 +33,7 @@ Planning to extend to more countries' Gender Equality indices dataset. Further i
  
 
 
-## Authors
+## Author
 
 Leela Josna Kona 
 - [Tableau Public Profile](https://public.tableau.com/app/profile/leela.josna.kona)
