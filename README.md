@@ -18,8 +18,6 @@ This dataset includes gender equality and its key dimension indices.
 - Temporal Coverage: 2010-2021
 
 ## Future work
-Your insights and contributions are welcome as we strive to promote and understand gender equality within this diverse and dynamic region.
-
 Planning to extend to more countries' Gender Equality indices dataset. Further include global Gender budgeting initiatives to examine the relationship between gender inequality and growth. To visualize how government programs and policies can promote Gender equality.
 
 
