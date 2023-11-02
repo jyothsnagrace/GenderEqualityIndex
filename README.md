@@ -36,5 +36,5 @@ Planning to extend to more countries' Gender Equality indices dataset. Further i
 ## Author
 
 Leela Josna Kona 
-- [Tableau Public Profile](https://public.tableau.com/app/profile/lkona){:target="_blank"}
-- [LinkedIn](https://www.linkedin.com/in/lkona/){:target="_blank"}
+- [Tableau Public Profile](https://public.tableau.com/app/profile/lkona)
+- [LinkedIn](https://www.linkedin.com/in/lkona/)
